@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm kmk</h1>
 <h3 align="center">A passionate back-end developer from Russia</h3>
 
+- 💬 Ask me about **python, algorithms, compillers, linux**
+
 - 📫 How to reach me **artemsagian414@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
